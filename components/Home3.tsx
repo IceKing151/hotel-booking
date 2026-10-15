@@ -1,6 +1,5 @@
-import React from 'react';
 import { 
-  Search, User, MapPin, Calendar, Users, Star, 
+  Search, MapPin, Calendar, Users, Star, 
   ArrowRight, Briefcase 
 } from 'lucide-react';
 import room1 from "../src/assets/roomImg1.png"
@@ -10,7 +9,6 @@ import room4 from "../src/assets/roomImg4.png"
 import offer1 from "../src/assets/exclusiveOfferCardImg1.png";
 import offer2 from "../src/assets/exclusiveOfferCardImg2.png";
 import offer3 from "../src/assets/exclusiveOfferCardImg3.png";
-import hero from "../src/assets/heroImage.png";
 import { Link } from 'react-router-dom';
 import Navbar2 from "./Navbar2";
 
